@@ -1,0 +1,8 @@
+{
+  "process_start": "2025-12-18T04:44:10.567Z",
+  "ready_at": "2025-12-18T04:44:11.963Z",
+  "module_load_ms": 90,
+  "total_startup_ms": 1395,
+  "runtime": "node",
+  "runtime_version": "v24.7.0"
+}
